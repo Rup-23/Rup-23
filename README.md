@@ -1,84 +1,196 @@
-──────────────────────────────────────────────
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Rupesh Kumar Meher
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Full Stack MERN Developer • Backend Enthusiast • AI Explorer 🇮🇳
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=Rup-23&label=Profile%20Views&color=0e75b6&style=flat" />`{=html}
+```{=html}
+</p>
+```
 
-               Hi 👋, I'm Rupesh Kumar Meher
+------------------------------------------------------------------------
 
-       💻 Full Stack MERN Developer from India 🇮🇳
+# 🚀 About Me
 
-                [ Profile Views ]
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="60%">
+```
+-   💻 Full Stack MERN Developer
+-   ⚙️ Passionate about Backend Engineering
+-   🚀 Building scalable web applications
+-   🤖 Exploring AI Engineering & Machine Learning
+-   🌱 Currently learning Next.js, Docker, LangChain and ML
+-   📚 Love solving DSA and real-world problems
+-   🎯 Goal: Build production-ready software that solves meaningful
+    problems.
 
-──────────────────────────────────────────────
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<img width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">`{=html}
 
-🚀 About Me                     [Developer Illustration]
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
-• 💻 Full Stack MERN Developer
-• 🚀 Passionate about Backend Engineering
-• 🤖 Building AI-powered Web Applications
-• 🌱 Currently learning Next.js, Docker & ML
-• ⚡ Love solving real-world problems
-• 📚 Exploring LangChain & AI Engineering
+------------------------------------------------------------------------
 
-──────────────────────────────────────────────
+# 🌐 Connect With Me
 
-🌐 Connect With Me
+```{=html}
+<p align="center">
+```
+`<a href="https://www.linkedin.com/in/rupesh-kumar-meher-59a1b3269/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:rupeshkumarmeher23@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://portfolio-rupeshk-meher-55.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/ev773FMrlC/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://instagram.com/heyrupesh.dev">`{=html}`<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
-[LinkedIn] [Portfolio] [Email] [LeetCode]
+------------------------------------------------------------------------
 
-──────────────────────────────────────────────
+# 💻 Tech Stack
 
-💻 Tech Stack
+## Languages
 
-🌍 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
 
-HTML CSS JavaScript TypeScript
-React Next.js Tailwind Redux
+## Frontend
 
-⚙ Backend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![React
+Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
+![Framer
+Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer)
 
-Node Express MongoDB
-JWT WebSocket Redis
+## Backend
 
-🛠 Tools
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![WebSocket](https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=socketdotio)
+![WebRTC](https://img.shields.io/badge/WebRTC-black?style=for-the-badge)
 
-Git GitHub VS Code Docker
-Postman Cloudinary Gemini OpenAI
+## Databases
 
-──────────────────────────────────────────────
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
 
-🚀 Featured Projects
+## AI / Cloud / Tools
 
-🧠 AI Resume Analyzer
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=google)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
-🤖 AI powered Resume Analyzer & Career Coach
-✔ Gemini API
-✔ Puppeteer
-✔ ATS Resume Generator
-✔ AI Interview Coach
+------------------------------------------------------------------------
 
---------------------------------------------
+# 📊 GitHub Stats
 
-🏛 DigiCulture
+```{=html}
+<p align="center">
+```
+`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rup-23&show_icons=true&theme=tokyonight"/>`{=html}
+`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rup-23&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
 
-✔ Next.js
-✔ Clerk
-✔ MongoDB
-✔ Cloudinary
+------------------------------------------------------------------------
 
---------------------------------------------
+# 🔥 GitHub Streak
 
-📦 Infinite Scroll Hook
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=Rup-23&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
 
-Published on NPM
+------------------------------------------------------------------------
 
-──────────────────────────────────────────────
+# 🏆 GitHub Trophies
 
-📊 GitHub Stats
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=Rup-23&theme=tokyonight&no-frame=true&row=1&column=7"/>`{=html}
+```{=html}
+</p>
+```
 
-🔥 Streak
+------------------------------------------------------------------------
 
-💻 Top Languages
+# 📈 Contribution Graph
 
-🏆 Trophies
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rup-23&theme=tokyo-night"/>`{=html}
+```{=html}
+</p>
+```
 
-📈 Contribution Graph
+------------------------------------------------------------------------
 
-──────────────────────────────────────────────
+# ✨ Quote
+
+> "Keep building. Keep learning. Small improvements every day lead to
+> extraordinary results."
+
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>`{=html}
+```{=html}
+</p>
+```
