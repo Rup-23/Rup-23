@@ -28,7 +28,7 @@
 </td>
 
 <td>
-<img width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="280" src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://thumb.r2.moele.me/t/35996/35986017/a-0060.jpg)"/>
 </td>
 
 </tr>
@@ -98,8 +98,8 @@ Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&log
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rup-23&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rup-23&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rup-23&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rup-23&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&log
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rup-23&theme=tokyonight&no-frame=true&row=1&column=7"/>
+ 
 </p>
 
 ---
