@@ -1,49 +1,84 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────────────────────
 
-              Hi 👋 I'm Rupesh Kumar Meher
+               Hi 👋, I'm Rupesh Kumar Meher
 
-      Full Stack MERN Developer • Backend Enthusiast
-              AI Explorer • India 🇮🇳
+       💻 Full Stack MERN Developer from India 🇮🇳
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚀 About Me
+                [ Profile Views ]
 
-I enjoy building scalable backend systems,
-real-world web applications and AI-powered tools.
+──────────────────────────────────────────────
 
-Currently focused on
+🚀 About Me                     [Developer Illustration]
 
-✔ Node.js
-✔ Express
-✔ MongoDB
+• 💻 Full Stack MERN Developer
+• 🚀 Passionate about Backend Engineering
+• 🤖 Building AI-powered Web Applications
+• 🌱 Currently learning Next.js, Docker & ML
+• ⚡ Love solving real-world problems
+• 📚 Exploring LangChain & AI Engineering
+
+──────────────────────────────────────────────
+
+🌐 Connect With Me
+
+[LinkedIn] [Portfolio] [Email] [LeetCode]
+
+──────────────────────────────────────────────
+
+💻 Tech Stack
+
+🌍 Frontend
+
+HTML CSS JavaScript TypeScript
+React Next.js Tailwind Redux
+
+⚙ Backend
+
+Node Express MongoDB
+JWT WebSocket Redis
+
+🛠 Tools
+
+Git GitHub VS Code Docker
+Postman Cloudinary Gemini OpenAI
+
+──────────────────────────────────────────────
+
+🚀 Featured Projects
+
+🧠 AI Resume Analyzer
+
+🤖 AI powered Resume Analyzer & Career Coach
+✔ Gemini API
+✔ Puppeteer
+✔ ATS Resume Generator
+✔ AI Interview Coach
+
+--------------------------------------------
+
+🏛 DigiCulture
+
 ✔ Next.js
-✔ Docker
-✔ LangChain
-✔ Machine Learning
+✔ Clerk
+✔ MongoDB
+✔ Cloudinary
 
-Frontend
+--------------------------------------------
 
-React
-Next
-TypeScript
-Tailwind
-Redux
+📦 Infinite Scroll Hook
 
-Backend
+Published on NPM
 
-Node
-Express
-MongoDB
-JWT
-WebSocket
-WebRTC
+──────────────────────────────────────────────
 
-Tools
+📊 GitHub Stats
 
-Git
-Docker
-Cloudinary
-Gemini
-OpenAI
-LangChain
-VS Code
+🔥 Streak
+
+💻 Top Languages
+
+🏆 Trophies
+
+📈 Contribution Graph
+
+──────────────────────────────────────────────
