@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack MERN Developer • Backend Enthusiast • AI Explorer 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a46fdb&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+&+Mobile+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a46fdb&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+ and+Mobile+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
