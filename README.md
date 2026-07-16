@@ -1,87 +1,50 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Rupesh Kumar Meher
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Full Stack MERN Developer • Backend Enthusiast • AI Explorer 🇮🇳
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Rup-23&label=Profile%20Views&color=0e75b6&style=flat" />`{=html}
-```{=html}
-</p>
-```
+<h1 align="center">Hi 👋, I'm Rupesh Kumar Meher</h1>
+<h3 align="center">Full Stack MERN Developer • Backend Enthusiast • AI Explorer 🇮🇳</h3>
 
-------------------------------------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rup-23&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
 
 # 🚀 About Me
 
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="60%">
-```
--   💻 Full Stack MERN Developer
--   ⚙️ Passionate about Backend Engineering
--   🚀 Building scalable web applications
--   🤖 Exploring AI Engineering & Machine Learning
--   🌱 Currently learning Next.js, Docker, LangChain and ML
--   📚 Love solving DSA and real-world problems
--   🎯 Goal: Build production-ready software that solves meaningful
-    problems.
 
-```{=html}
+- 💻 Full Stack MERN Developer
+- ⚙️ Passionate about Backend Engineering
+- 🚀 Building scalable web applications
+- 🤖 Exploring AI Engineering & Machine Learning
+- 🌱 Currently learning Next.js, Docker, LangChain & ML
+- 📚 Love solving DSA and real-world problems
+- 🎯 Goal: Build production-ready software
+
 </td>
-```
-```{=html}
+
 <td>
-```
-`<img width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">`{=html}
-
-```{=html}
+<img width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
 
-------------------------------------------------------------------------
+</tr>
+</table>
+
+---
 
 # 🌐 Connect With Me
 
-```{=html}
 <p align="center">
-```
-`<a href="https://www.linkedin.com/in/rupesh-kumar-meher-59a1b3269/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="mailto:rupeshkumarmeher23@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://portfolio-rupeshk-meher-55.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/u/ev773FMrlC/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://instagram.com/heyrupesh.dev">`{=html}`<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>`{=html}`</a>`{=html}
-```{=html}
+<a href="https://www.linkedin.com/in/rupesh-kumar-meher-59a1b3269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rupeshkumarmeher23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio-rupeshk-meher-55.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ev773FMrlC/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://instagram.com/heyrupesh.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-```
 
 ------------------------------------------------------------------------
 
