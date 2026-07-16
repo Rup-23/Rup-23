@@ -95,65 +95,44 @@ Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&log
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
 ------------------------------------------------------------------------
-
 # 📊 GitHub Stats
 
-```{=html}
 <p align="center">
-```
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rup-23&show_icons=true&theme=tokyonight"/>`{=html}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rup-23&layout=compact&theme=tokyonight"/>`{=html}
-```{=html}
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rup-23&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rup-23&layout=compact&theme=tokyonight"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 # 🔥 GitHub Streak
 
-```{=html}
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=Rup-23&theme=tokyonight"/>`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=Rup-23&theme=tokyonight"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 # 🏆 GitHub Trophies
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=Rup-23&theme=tokyonight&no-frame=true&row=1&column=7"/>`{=html}
-```{=html}
+  <img src="https://github-profile-trophy.vercel.app/?username=Rup-23&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 # 📈 Contribution Graph
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rup-23&theme=tokyo-night"/>`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rup-23&theme=tokyo-night"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 # ✨ Quote
 
-> "Keep building. Keep learning. Small improvements every day lead to
-> extraordinary results."
+> **Keep building. Keep learning. Small improvements every day lead to extraordinary results.**
 
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>`{=html}
-```{=html}
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
 </p>
-```
+
