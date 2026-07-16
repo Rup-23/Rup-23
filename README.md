@@ -2,11 +2,11 @@
 <h3 align="center">Full Stack MERN Developer • Backend Enthusiast • AI Explorer 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8f69bd&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a46fdb&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rup-23&label=Profile+Views&color=d8d650&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Rup-23&label=Profile+Views&color=66f5e5&style=for-the-badge"/>
 </p>
 
 ---
