@@ -107,7 +107,7 @@ Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&log
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rup-23&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rup-23&theme=tokyonight"/>
 </p>
 
 ---
