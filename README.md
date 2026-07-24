@@ -24,10 +24,7 @@
   <li>🎯 Goal: Build production-ready software</li>
 </ul>
 
-
-
-
----
+<hr>
 
 # 🌐 Connect With Me
 
